@@ -1,0 +1,1 @@
+  -LC:/Users/MINHTH~1/source/repos/LEARN_~1/RAYCAS~1/./lib  -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

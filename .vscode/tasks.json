@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+	  {
+		"label": "Run PowerShell Script",
+		"type": "shell",
+		"command": "powershell",
+		"args": ["-File", "run.ps1"],
+		"group": {
+		  "kind": "build",
+		  "isDefault": true
+		}
+	  }
+	]
+  }
